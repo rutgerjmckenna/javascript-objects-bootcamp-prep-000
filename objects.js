@@ -10,3 +10,6 @@ function updatePlaylist(playlist, artist, song) {
   playlist['Phil Ochs'] = 'song'
   return playlist
 }
+function updatePlaylist(playlist, atist, song) {
+  
+}
