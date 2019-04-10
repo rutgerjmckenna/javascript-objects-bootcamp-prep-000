@@ -1,9 +1,9 @@
 var playlist = {
-  'beatles': 'taxman'
+  artist: song
 }
 
 function newPlaylist(playlist, artist, song) {
-  playlist['beatles'] = 'taxman'
+  playlist[artist] = song
   return playlist
   }
 function updatePlaylist(playlist, artist, song) {
