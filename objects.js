@@ -7,6 +7,6 @@ function newPlaylist(playlist, artist, song) {
   return playlist
   }
 function updatePlaylist(playlist, artist, song) {
-  playlist.artist = 'song'
+  playlist.'Phil Ochs' = 'song'
   return playlist
 }
