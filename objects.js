@@ -6,3 +6,4 @@ function newPlaylist(playlist, artist, song) {
   playlist['beatles'] = 'taxman'
   return playlist
   }
+playlist['beatles'] = 'lucy'
