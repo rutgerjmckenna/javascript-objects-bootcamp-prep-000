@@ -6,4 +6,7 @@ function newPlaylist(playlist, artist, song) {
   playlist['beatles'] = 'taxman'
   return playlist
   }
-playlist.beatles = 'lucy'
+function updatePlaylist(playlist, artist, song) {
+  playlist.beatles = 'lucy'
+  return playlist
+}
