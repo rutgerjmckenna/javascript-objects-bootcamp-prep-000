@@ -10,3 +10,4 @@ function updatePlaylist(playlist, artist, song) {
   playlist['Phil Ochs'] = 'song'
   return playlist
 }
+function removeFromPlaylist(playlist, artist, song) {
